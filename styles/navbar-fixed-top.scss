@@ -1,0 +1,66 @@
+/*Mobile First*/
+
+body { 
+  padding-top: 70px;
+  background: url('../images/grid5BG.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+
+a {
+  color: white;
+}
+
+h2 {
+  color: black;
+}
+
+.jumbotron {
+	opacity: .9;
+	color: white;
+	background-color: gray;
+}
+
+
+img {
+  width: 100%;
+  opacity: .95;
+  background-color: white;
+}
+
+.jumbotron {
+	width: 100%;
+}
+
+#about p {
+	width: 100%;
+	font-size: 1.3em;
+	opacity: 1.0;
+}
+
+.arcsvg	{
+	stroke-width: 5px;
+  stroke: red;
+
+}
+
+#introduction {
+
+}
+
+#longIntroduction {
+	display: all;
+}
+
+#work p {
+	padding: 200 px;
+}
+
+#contact {
+	width: 50%;
+}
+
